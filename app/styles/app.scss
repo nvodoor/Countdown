@@ -1,0 +1,19 @@
+@import "base/variables";
+@import "Components/Navigation";
+
+.nav-right {
+	display: inline-block;
+	margin-left: 800px;
+}
+
+.link-display {
+	margin-left: -20px;
+}
+
+.black {
+	background-color: black;
+}
+
+.white {
+	color: white;
+}
